@@ -11,10 +11,10 @@ main:
   - title: "Talks & Outreach"
     url: /talks/    
 
-  - title: "Projects"
-    url: /projects/    
+  #- title: "Projects"
+  #  url: /projects/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   #- title: "Blog Posts"
