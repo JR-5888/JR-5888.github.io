@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Phylogenetic analysis of bryophytes and early polysporangiophytes under a total-evidence approach. I – Clarifying the phylogenetic and systematic affinities of enigmatic Palaeozoic taxa of Argentina"
+excerpt: "<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
