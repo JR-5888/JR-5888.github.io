@@ -22,7 +22,7 @@ Pages worth being visited...maybe:
 
 [Datasets](https://morphobank.org/index.php/Search/Index?search=Flores+Jorge)
 
-![Editing a markdown file for a talk](/images/cover.jpg)
+![Editing a markdown file for a talk](/images/cover.jpg){: align-right width="300px"}
 
 
 {% comment %}
