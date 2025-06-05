@@ -18,7 +18,7 @@ Research in the lab centers on integrating fossils, morphology, and molecular da
 
 [GitHub pages](https://pages.github.com/)
 
-![Editing a markdown file for a talk](/images/devland.png)
+![Editing a markdown file for a talk](/images/cover.jpg)
 
 
 {% comment %}
