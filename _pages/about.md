@@ -18,7 +18,7 @@ Research at the lab focuses on integrating fossils, morphology and molecules to 
 
 [GitHub pages](https://pages.github.com/)
 
-![Editing a markdown file for a talk](/images/cover.jpg)
+[Editing a markdown file for a talk](/images/cover.jpg)
 
 
 {% comment %}
