@@ -14,7 +14,7 @@ Random TEXT of a website that is powered by the [Academic Pages template](https:
 
 Phylogenetics and macroevolution in land plants
 ======
-Research at the lab focuses on integrating fossils, morphology and molecules to find answers to key evolutionary questions in land plant lineages. Methods range from model-free to statistical and bayesian-based approaches, and from taxonomy to phylogenetics and biogeography.  
+Research at the lab focuses on integrating fossils, morphology and molecules to find answers to key evolutionary questions in land plant lineages. Methods range from model-free to statistical and bayesian-based approaches, and from taxonomy to phylogenetics and biogeography. Even though the primary focus is on non-vascular land plants (i.e., bryophytes), we are expanding to other land plant lineages and animals. Our research is also heavily oriented towards collections and generating large volumes of phenotypic data. 
 
 [GitHub pages](https://pages.github.com/)
 
