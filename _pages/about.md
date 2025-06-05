@@ -12,7 +12,7 @@ Random TEXT of a website that is powered by the [Academic Pages template](https:
 
 {% endcomment %}
 
-![Editing a markdown file for a talk](/images/cover.jpg){: align-right width="300px"}
+![Editing a markdown file for a talk](/images/cover.jpg){: .align-right width="300px"}
 
 Phylogenetics and macroevolution in land plants
 ======
