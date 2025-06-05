@@ -18,9 +18,9 @@ Research in the lab centers on integrating fossils, morphology, and molecular da
 
 Pages worth being visited...maybe:
 
-scripts- [GitHub](https://pages.github.com/)
+[Scripts](https://github.com/JR-5888)
 
-datasets- [My MorphoBank](https://morphobank.org/index.php/Search/Index?search=Flores+Jorge)
+[Datasets](https://morphobank.org/index.php/Search/Index?search=Flores+Jorge)
 
 ![Editing a markdown file for a talk](/images/cover.jpg)
 
