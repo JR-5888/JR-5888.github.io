@@ -6,7 +6,8 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: https://scholar.google.fi/citations?user=Yl2-uRMAAAAJ&hl=en
 
   - title: "Talks & Outreach"
     url: /talks/    
