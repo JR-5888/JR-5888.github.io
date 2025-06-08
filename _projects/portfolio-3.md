@@ -5,5 +5,4 @@ collection: projects
 ---
 ![Editing a markdown file for a talk](/images/devlands.png){: width="600px"}
 
-This is an item in your portfolio. It can be have images or nice text.
-If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Hypotheses of homology are fundamental in order to understand the phylogenetic relationships of land plants and their evolutionary trajectories. However, the emergence of major lineages are marked not just by morphological novelties (e.g., cuticules or seeds) but also are hindered by morphological features whose homologies are unclear (e.g., seed coats). In this project, the aim is to clarify homology hypotheses through a "dynamic homology" approach in three major clades: embryophytes, bryophytes and angiosperms.
