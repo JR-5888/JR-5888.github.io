@@ -4,7 +4,7 @@ title: "Systematics and phylogenetics of extant bryophytes (Bryophyta) and ferns
 collection: projects
 ---
 
-![Editing a markdown file for a talk](/images/500x300.png){: width="600px"}
+![Editing a markdown file for a talk](/images/Osmundacaulis.png){: width="600px"}
 
 Pteridology and bryology are disciplines that have advanced in systematics due to the advent of phylogenomics. Nevertheless, Neotropical taxa have been poorly represented in current phylogenies and classification schemes. However, it is widely recognised that the inclusion of taxa often impacts inferred phylogenies, as the incorporated taxa exhibit different character combinations from those previously observed. This affects inferences of ancestral character states and the observed macroevolutionary patterns.
 
