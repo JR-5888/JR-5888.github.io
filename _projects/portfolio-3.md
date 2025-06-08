@@ -1,6 +1,6 @@
 ---
 title: "Ambiguous homologies at the dawn of land plant lineages"
-excerpt: "<br/><img src='/images/devlands.png'>"
+#excerpt: "<br/><img src='/images/devlands.png'>"
 collection: projects
 ---
 ![Editing a markdown file for a talk](/images/devlands.png){: width="600px"}
