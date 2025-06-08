@@ -33,14 +33,14 @@ Pages worth being visited...maybe:
   margin: 20px 0;
 ">
   <!-- Row 1 -->
-  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+  <div style="width: 300px; height: auto;">
     <img 
       src="/images/cover.jpg" 
       alt="Left Up" 
       style="width: 100%; height: auto; object-fit: contain;"
     >
   </div>
-  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+  <div style="width: 300px; height: auto;">
     <img 
       src="/images/cover.jpg" 
       alt="Right Up" 
@@ -48,14 +48,14 @@ Pages worth being visited...maybe:
     >
   </div>
   <!-- Row 2 -->
-  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+  <div style="width: 300px; height: auto;">
     <img 
       src="/images/cover.jpg" 
       alt="Left Bottom" 
       style="width: 100%; height: auto; object-fit: contain;"
     >
   </div>
-  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+  <div style="width: 300px; height: auto;">
     <img 
       src="/images/cover.jpg" 
       alt="Right Bottom" 
