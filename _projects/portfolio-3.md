@@ -1,6 +1,6 @@
 ---
 title: "Ambiguous homologies at the dawn of land plant lineages"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/devlands.png'>"
 collection: projects
 ---
 
