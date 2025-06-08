@@ -35,14 +35,14 @@ Pages worth being visited...maybe:
   <!-- Row 1 -->
   <div style="width: 300px; height: auto;">
     <img 
-      src="/images/cover.jpg" 
+      src="/images/asterella.png" 
       alt="Left Up" 
       style="width: 100%; height: auto; object-fit: contain;"
     >
   </div>
   <div style="width: 300px; height: auto;">
     <img 
-      src="/images/cover.jpg" 
+      src="/images/Tar_hipo_esp.png" 
       alt="Right Up" 
       style="width: 100%; height: auto; object-fit: contain;"
     >
@@ -50,14 +50,14 @@ Pages worth being visited...maybe:
   <!-- Row 2 -->
   <div style="width: 300px; height: auto;">
     <img 
-      src="/images/cover.jpg" 
+      src="/images/Targ_estelaris.png" 
       alt="Left Bottom" 
       style="width: 100%; height: auto; object-fit: contain;"
     >
   </div>
   <div style="width: 300px; height: auto;">
     <img 
-      src="/images/cover.jpg" 
+      src="/images/Targ_hipo.png" 
       alt="Right Bottom" 
       style="width: 100%; height: auto; object-fit: contain;"
     >
