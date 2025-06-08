@@ -24,7 +24,45 @@ Pages worth being visited...maybe:
 
 [Datasets](https://morphobank.org/index.php/Search/Index?search=Flores+Jorge)
 
-
+<!-- 2x2 Image Grid with 300px fixed width -->
+<div style="
+  display: grid;
+  grid-template-columns: 300px 300px;
+  gap: 15px;
+  justify-content: center;
+  margin: 20px 0;
+">
+  <!-- Row 1 -->
+  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+    <img 
+      src="/images/cover.jpg" 
+      alt="Left Up" 
+      style="width: 100%; height: auto; object-fit: contain;"
+    >
+  </div>
+  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+    <img 
+      src="/images/cover.jpg" 
+      alt="Right Up" 
+      style="width: 100%; height: auto; object-fit: contain;"
+    >
+  </div>
+  <!-- Row 2 -->
+  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+    <img 
+      src="/images/cover.jpg" 
+      alt="Left Bottom" 
+      style="width: 100%; height: auto; object-fit: contain;"
+    >
+  </div>
+  <div style="width: 300px; height: auto; overflow: hidden; border: 1px solid #eee;">
+    <img 
+      src="/images/cover.jpg" 
+      alt="Right Bottom" 
+      style="width: 100%; height: auto; object-fit: contain;"
+    >
+  </div>
+</div>
 
 
 {% comment %}
