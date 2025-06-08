@@ -1,6 +1,6 @@
 ---
 title: "Systematics and phylogenetics of extant bryophytes (Bryophyta) and ferns (Polypodiopsida). II. Parallelisms and convergences of adaptive characters in seedless plants"
-excerpt: "<br/><img src='/images/500x300.png'>"
+#excerpt: "<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 

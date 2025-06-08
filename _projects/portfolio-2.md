@@ -1,8 +1,10 @@
 ---
 title: "Phylogenetic analysis of bryophytes and early polysporangiophytes under a total-evidence approach. I – Clarifying the phylogenetic and systematic affinities of enigmatic Palaeozoic taxa of Argentina"
-excerpt: "<br/><img src='/images/500x300.png'>"
+#excerpt: "<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
+
+![Editing a markdown file for a talk](/images/Mus.jpg){: width="600px"}
 
 The advent of genomic data has revolutionised the field of phylogenetic inference by recovering novel hypotheses of evolutionary relationships supported by massive datasets across diverse organisms. Many of the new clades revealed in phylogenomic studies of land plants have led to revised classification schemes and macroevolutionary hypotheses. While the widespread availability of genomic data has improved our understanding of land plant evolution, a significant portion of the diversity in the studied groups has been overlooked, as these molecular-based studies excluded extinct taxa.
 
