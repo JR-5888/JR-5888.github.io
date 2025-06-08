@@ -4,6 +4,8 @@ title: "Systematics and phylogenetics of extant bryophytes (Bryophyta) and ferns
 collection: projects
 ---
 
+![Editing a markdown file for a talk](/images/500x300.png){: width="600px"}
+
 Pteridology and bryology are disciplines that have advanced in systematics due to the advent of phylogenomics. Nevertheless, Neotropical taxa have been poorly represented in current phylogenies and classification schemes. However, it is widely recognised that the inclusion of taxa often impacts inferred phylogenies, as the incorporated taxa exhibit different character combinations from those previously observed. This affects inferences of ancestral character states and the observed macroevolutionary patterns.
 
 In this project, we aim to evaluate (a) the phylogenetic affinities of Neotropical bryophytes and ferns and (b) the macroevolutionary patterns of adaptive traits that have independently arisen in different lineages. Here, we focus on improving the sampling of morphological characters obtained from new sources of evidence, thoroughly assessing the morphological variability (polymorphisms) of the taxa. This has been poorly considered in previous fern and bryophyte phylogenies, often being "resolved" using ad hoc criteria (e.g., the most frequent state). This is important because, on one hand, it disregards observed information, and on the other, polymorphisms—contrary to some arguments—are not necessarily a limitation for phylogenetic inference (e.g., they may reveal new topologies). Where available in databases, morphological datasets will be supplemented with molecular markers.
